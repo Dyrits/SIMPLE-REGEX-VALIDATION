@@ -1,30 +1,30 @@
 # Simple RegEx Validation
 
-## More about this project
+A simple form validation using regular expressions, built with HTML, CSS and JavaScript.
 
-### Related course
-YOUTUBE | THE NET NINJA: Regular Expressions (RegEx) Tutorial
+## About The Project
 
-### Core technologies
-- HTML5
-- CSS3
-- JavaScript
+From the original README: this project was made while coding along with The Net Ninja's "Regular Expressions (RegEx) Tutorial" on YouTube, with several changes from the original project.
 
-#### Libraries, tools and frameworks:
-- Regular Expressions
-
-### Details | Comments
-- Albeit this project was made coding along while following the related course, several changes have been made from the original project.
-
-### CodePen
-You can find this project on CodePen.  
-URL: https://codepen.io/Dyrits/full/GRpePLR
+The project can also be found on CodePen: [codepen.io/Dyrits/full/GRpePLR](https://codepen.io/Dyrits/full/GRpePLR)
 
 ### Status
-Finished
 
-#### Last update
-24/05/2020
+Finished, per the original README.
 
-#### Last update (README.md)
-24/05/2020
+## Built With
+
+- HTML / CSS
+- JavaScript
+
+## Getting Started
+
+Open `index.html` in a browser.
+
+## License
+
+No license file is present in this repository.
+
+## Contact
+
+Dylan J. Gerrits - [GitHub](https://github.com/Dyrits)
